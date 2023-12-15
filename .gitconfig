@@ -1,0 +1,5 @@
+[user]
+	name = hollisticgit
+	email = hbrewer27@gmail.com
+[core]
+	editor = nvim
